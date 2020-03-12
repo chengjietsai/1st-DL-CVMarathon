@@ -7,8 +7,7 @@
 
 .ipynb_checkpoints
 data/
-example/
-ans/
+
 */.ipynb_checkpoints/*
 
 # IPython
